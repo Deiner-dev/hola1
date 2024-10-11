@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.container-fluid{
+    background-color: #80E0B1;
+}
+
+.container{
+    background-color: #80E0B1;
+}
+
+.footer {
+    background-color:  #80E0B1;
+    color: #fff; 
+    padding: 10px;
+    text-align: center;
+    clear: both; 
+  }
+  
+.footer p {
+    margin: 0; 
+  }
+
+
